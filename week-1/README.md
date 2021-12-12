@@ -10,6 +10,7 @@
 
 ### Apa saja yang dilakukan DevOps
 -CI/CD
+![logo](https://github.com/rioprayogo/DevOps-Engineer/blob/main/week-1/asset/CICD_CICD.png)
 -Infrastructure as a Code (IAAC)
 -Configuration Management
 -Monitoring
