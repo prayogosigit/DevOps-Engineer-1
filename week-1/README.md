@@ -12,15 +12,15 @@
 
 -CI/CD
 
---Continuous integration (CI) adalah pengintegrasian kode ke dalam repositori kode kemudian menjalankan pengujian secara otomatis, dan cepat
+    Continuous integration (CI) adalah pengintegrasian kode ke dalam repositori kode kemudian menjalankan pengujian secara otomatis, dan cepat
 
---continous delivery atau continuous deployment (CD) adalah praktik yang dilakukan setelah proses CI selesai dan seluruh kode berhasil terintegrasi, sehingga aplikasi bisa dibangun lalu dirilis secara otomatis
+    continous delivery atau continuous deployment (CD) adalah praktik yang dilakukan setelah proses CI selesai dan seluruh kode berhasil terintegrasi, sehingga aplikasi bisa dibangun lalu dirilis secara otomatis
 
 ![logo](https://github.com/rioprayogo/DevOps-Engineer/blob/main/week-1/asset/CICD_CICD.png)
 
 -Configuration Management
 
---Configuration Management adalah praktek dalam proses System Engineering yang memiliki tujuan untuk me-maintain konfigurasi sebuah produk, dan memastikan konsitensinya
+    Configuration Management adalah praktek dalam proses System Engineering yang memiliki tujuan untuk me-maintain konfigurasi sebuah produk, dan memastikan konsitensinya
 
 -Infrastructure as a Code (IAAC)
 
@@ -30,5 +30,5 @@
 
 -Monitoring
 
---Untuk mengetahui produk yang dibuat berjalan dengan baik atau tidak
+    Untuk mengetahui produk yang dibuat berjalan dengan baik atau tidak
 
