@@ -56,7 +56,7 @@ untuk membangun sebuah jaringan komputer
 2. Topologi Bus
 3. Topologi Star
 4. Topologi Mesh
-5Topologi Tree
+5. Topologi Tree
 
 
 ![logo](https://github.com/rioprayogo/DevOps-Engineer/blob/main/week-1/asset/macam_jenis_topology.png)
