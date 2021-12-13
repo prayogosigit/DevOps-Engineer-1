@@ -34,7 +34,7 @@
 
 ## Pengenalan Jaringan
 ### Apa itu basic network
--menurut wikipedia jaringan komputer adalah sebuah sistem yang terdiri atas komputer-komputer yang didesain untuk dapat berbagi sumber daya, berkomunikasi, dan dapat mengakses informasi.
+-Jaringan komputer adalah sebuah sistem yang terdiri atas komputer-komputer yang didesain untuk dapat berbagi sumber daya, berkomunikasi, dan dapat mengakses informasi.
 
 jaringan komputer yang sederhana hanya terdiri dari dua buah komputer yang dihubungkan dengan kabel ataupun sinyal wireless. Namun dalam sebuah jaringan komputer yang kompleks minimal ada sebuah hub, switch atau router yang menjadi penghubung. selain itu ada juga modem yang berfungsi sebagai konverter bagi dua jaringan yang berbeda.
 
