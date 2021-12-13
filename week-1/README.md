@@ -49,7 +49,7 @@ jaringan komputer yang sederhana hanya terdiri dari dua buah komputer yang dihub
 
 ### Topology
 Topology adalah metode atau cara yang digunakan agar dapat menghubungkan satu komputer dengan komputer lainnya
-untuk membangun sebuah jaringan komputer, sebaiknya menyiapkan desain topologi terlebih dahulu
+untuk membangun sebuah jaringan komputer
 
 ### Macam jenis topology
 1. Topologi Ring
