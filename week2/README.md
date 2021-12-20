@@ -1,6 +1,3 @@
 # DevOps-Engineer
-## Minggu ke 1
-- Pengenalan apa itu DevOps
-- Pengenalan jaringan
+## Minggu ke 2
 
-[buka disini](week-1/README.md)
