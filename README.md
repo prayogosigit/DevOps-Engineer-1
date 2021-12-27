@@ -11,3 +11,7 @@
 
 [buka disini](week2/README.md)
 
+### minggu ke 3
+- Manage seerver with terminnal
+
+[buka disini](week3/README.md)
