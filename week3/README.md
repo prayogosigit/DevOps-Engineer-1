@@ -1,4 +1,4 @@
-# week ke 3
+# Minggu ke 3
 ## Menggunakan server dengan teminal
 
 -Cara membuat folder
